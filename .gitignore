@@ -102,7 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-data/celeb500k/*
-data/done/*
 data/images/*
 data/urls/*
