@@ -12,7 +12,7 @@ pip install scrapy Pillow
 ```
 
 ## Download url files
-Download url files to `data` folder following the instruction inside.
+Download url files to `data` folder following the [instruction inside](data/README.md).
 
 ## Start downloading
 Run the following command
